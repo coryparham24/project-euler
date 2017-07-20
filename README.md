@@ -1,0 +1,1 @@
+This repo will contain the solutions that I have come up with for all of the Project Euler problems that I solve successfully.
